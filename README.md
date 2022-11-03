@@ -13,7 +13,7 @@ I’m a full-stack developer who works primarily as a Machine Learning engineer.
 
 I have experience working on niche medical ML problems with some publications in medical journals and conferences. I am always open to new and exciting opportunities. 
 
-5 years working at Maxwell Plus, where we did some awesome work (see [1] & [2]). I spent my time across AI research, ML + data engineering, infrastructure + devops and React/Flutter front-end work.  
+5 years working at Maxwell Plus, where we did some awesome work (see [1](https://cloud.google.com/customers/maxwell-plus/) & [2](https://nhsaccelerator.com/innovation/maxwell-plus/)). I spent my time across AI research, ML + data engineering, infrastructure + devops and React/Flutter front-end work.  
 
 <br/>  
 
