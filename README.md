@@ -11,7 +11,8 @@
 ### About me  
 I’m a full-stack developer who works primarily as a Machine Learning engineer. I have an interest in computer vision models, and more recently models used for financial trading.
 
-I have experience working on niche medical ML problems with some publications in medical journals and conferences. I am always open to new and exciting opportunities.  
+I have experience working on niche medical ML problems with some publications in medical journals and conferences. I am always open to new and exciting opportunities. 
+
 5 years working at Maxwell Plus, where we did some awesome work (see [1] & [2]). I spent my time across AI research, ML + data engineering, infrastructure + devops and React/Flutter front-end work.  
 
 <br/>  
