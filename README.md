@@ -12,7 +12,7 @@
 I’m a full-stack developer who works primarily as a Machine Learning engineer. I have an interest in computer vision models, and more recently models used for financial trading.
 
 I have experience working on niche medical ML problems with some publications in medical journals and conferences. I am always open to new and exciting opportunities.  
-  
+5 years working at Maxwell Plus, where we did some awesome work (see [1] & [2]). I spent my time across AI research, ML + data engineering, infrastructure + devops and React/Flutter front-end work.  
 
 <br/>  
 
@@ -20,10 +20,10 @@ I have experience working on niche medical ML problems with some publications in
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🏥Recent publication which used Gaussian Processes to interpolate historical blood markers to be used in a state-of-the-art CNN + LSTM model to predict the likelihood of a patient developing Prostate cancer [Link](https://pubmed.ncbi.nlm.nih.gov/34920976/)  
+- 🏥 Recent publication which used Gaussian Processes to interpolate historical blood markers to be used in a state-of-the-art CNN + LSTM model to predict the likelihood of a patient developing Prostate cancer [Link](https://pubmed.ncbi.nlm.nih.gov/34920976/)  
   
 
-- 💊Developed a novel optimisation technique for combined learning of different 3D MRI segmentation labels achieving state-of-the-art anatomical segmentation of the prostate. Poster accepted in [APCC 21](https://global-uploads.webflow.com/60fe1fc1ca2d0435ddacffd0/6244f0ab517bf9856c8040cd_APCC%202021%20Poster.pdf)  
+- 💊 Developed a novel optimisation technique for combined learning of different 3D MRI segmentation labels achieving state-of-the-art anatomical segmentation of the prostate. Poster accepted in [APCC 21](https://global-uploads.webflow.com/60fe1fc1ca2d0435ddacffd0/6244f0ab517bf9856c8040cd_APCC%202021%20Poster.pdf)  
 
 
 </td><td valign="top" width="50%">
