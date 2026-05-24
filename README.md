@@ -1,10 +1,20 @@
+<div align="center">
+
 # Hi, I'm Lewis Smith 👋
 
 Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infrastructure, high-throughput model serving systems, distributed training pipelines, and full-stack products.
 
-[Website](https://lleewwiiss.github.io/) · [LinkedIn](https://linkedin.com/in/llewissmithh) · [GitHub](https://github.com/lleewwiiss)
+[![Website](https://img.shields.io/badge/Website-lleewwiiss.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://lleewwiiss.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-llewissmithh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/llewissmithh)
+[![The Boxing Book](https://img.shields.io/badge/The_Boxing_Book-40k%2B_fighters-B91C1C?style=for-the-badge)](https://www.theboxingbook.com/)
+
+</div>
 
 ## What I work on
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,react,nodejs,pytorch,tensorflow,docker,kubernetes,aws,gcp,postgres,redis,bash,linux,git" alt="Go, Python, TypeScript, React, Node.js, PyTorch, TensorFlow, Docker, Kubernetes, AWS, GCP, PostgreSQL, Redis, Bash, Linux, and Git" />
+</p>
 
 - **ML systems:** training and inference platforms, NVIDIA Triton, ONNX, PyTorch, TensorFlow, model optimisation, LLM tracing and observability.
 - **Backend and data:** Go, Python, SQL, gRPC, Redis, ClickHouse, Apache Beam, PostgreSQL.
@@ -17,6 +27,17 @@ Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infras
 - **Maxwell Plus** — Lead ML Engineer on prostate cancer risk modelling, 3D medical imaging segmentation, and production ML/data infrastructure.
 - **The Boxing Book** — creator of a [global amateur boxing database](https://www.theboxingbook.com/) with 40k+ fighters.
 - **Agent tooling** — building structured agent workflow tools including [opencode-maestro](https://github.com/lleewwiiss/opencode-maestro), [amp-maestro](https://github.com/lleewwiiss/amp-maestro), and [codex-agents](https://github.com/lleewwiiss/codex-agents).
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lleewwiiss&theme=transparent" alt="GitHub profile activity summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lleewwiiss&theme=transparent" alt="GitHub repositories by language" />
+  <img src="https://streak-stats.demolab.com?user=lleewwiiss&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## Selected research and writing
 
