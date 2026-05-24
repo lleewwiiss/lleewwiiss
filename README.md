@@ -13,7 +13,7 @@ Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infras
 ## What I work on
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,react,nodejs,pytorch,tensorflow,docker,kubernetes,aws,gcp,postgres,redis,bash,linux,git" alt="Go, Python, TypeScript, React, Node.js, PyTorch, TensorFlow, Docker, Kubernetes, AWS, GCP, PostgreSQL, Redis, Bash, Linux, and Git" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,react,pytorch,tensorflow,docker,kubernetes,aws,gcp,postgres,redis&perline=6" alt="Go, Python, TypeScript, React, PyTorch, TensorFlow, Docker, Kubernetes, AWS, GCP, PostgreSQL, and Redis" />
 </p>
 
 - **ML systems:** training and inference platforms, NVIDIA Triton, ONNX, PyTorch, TensorFlow, model optimisation, LLM tracing and observability.
