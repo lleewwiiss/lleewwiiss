@@ -28,12 +28,6 @@ Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infras
 - **The Boxing Book** — creator of a [global amateur boxing database](https://www.theboxingbook.com/) with 40k+ fighters.
 - **Agent tooling** — building structured agent workflow tools including [opencode-maestro](https://github.com/lleewwiiss/opencode-maestro), [amp-maestro](https://github.com/lleewwiiss/amp-maestro), and [codex-agents](https://github.com/lleewwiiss/codex-agents).
 
-## Public repo snapshot
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lleewwiiss&theme=transparent" alt="Public GitHub repositories by language" />
-</p>
-
 ## Selected research and writing
 
 - Prostate cancer risk modelling with Gaussian Process interpolation and CNN/LSTM architectures — [PubMed](https://pubmed.ncbi.nlm.nih.gov/34920976/).
