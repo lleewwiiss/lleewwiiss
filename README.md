@@ -28,15 +28,10 @@ Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infras
 - **The Boxing Book** — creator of a [global amateur boxing database](https://www.theboxingbook.com/) with 40k+ fighters.
 - **Agent tooling** — building structured agent workflow tools including [opencode-maestro](https://github.com/lleewwiiss/opencode-maestro), [amp-maestro](https://github.com/lleewwiiss/amp-maestro), and [codex-agents](https://github.com/lleewwiiss/codex-agents).
 
-## GitHub activity
+## Public repo snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lleewwiiss&theme=transparent" alt="GitHub profile activity summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lleewwiiss&theme=transparent" alt="GitHub repositories by language" />
-  <img src="https://streak-stats.demolab.com?user=lleewwiiss&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lleewwiiss&theme=transparent" alt="Public GitHub repositories by language" />
 </p>
 
 ## Selected research and writing
