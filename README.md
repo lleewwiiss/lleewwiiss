@@ -1,88 +1,32 @@
-## Lewis W. Smith 💻  
-  
+# Hi, I'm Lewis Smith 👋
 
-<a href="https://linkedin.com/in/llewissmithh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+Senior Machine Learning Engineer on the Gold Coast, Australia. I build ML infrastructure, high-throughput model serving systems, distributed training pipelines, and full-stack products.
 
+[Website](https://lleewwiiss.github.io/) · [LinkedIn](https://linkedin.com/in/llewissmithh) · [GitHub](https://github.com/lleewwiiss)
 
+## What I work on
 
-### About me  
-I’m a full-stack developer who works primarily as a Machine Learning engineer. I have an interest in computer vision models, and more recently models used for financial trading.
+- **ML systems:** training and inference platforms, NVIDIA Triton, ONNX, PyTorch, TensorFlow, model optimisation, LLM tracing and observability.
+- **Backend and data:** Go, Python, SQL, gRPC, Redis, ClickHouse, Apache Beam, PostgreSQL.
+- **Product engineering:** TypeScript, React, Node.js, Docker, Kubernetes, AWS, GCP.
+- **Applied ML:** medical imaging, computer vision, risk modelling, and financial/trading systems.
 
-I have experience working on niche medical ML problems with some publications in medical journals and conferences. I am always open to new and exciting opportunities. 
+## Recent work
 
-5 years working at Maxwell Plus, where we did some awesome work (see [1](https://cloud.google.com/customers/maxwell-plus/) & [2](https://nhsaccelerator.com/innovation/maxwell-plus/)). I spent my time across AI research, ML + data engineering, infrastructure + devops and React/Flutter front-end work.  
+- **Block** — Senior ML Engineer across inference and training systems, including high-throughput gRPC/Triton model serving and distributed training foundations.
+- **Maxwell Plus** — Lead ML Engineer on prostate cancer risk modelling, 3D medical imaging segmentation, and production ML/data infrastructure.
+- **The Boxing Book** — creator of a [global amateur boxing database](https://www.theboxingbook.com/) with 40k+ fighters.
+- **Agent tooling** — building structured agent workflow tools including [opencode-maestro](https://github.com/lleewwiiss/opencode-maestro), [amp-maestro](https://github.com/lleewwiiss/amp-maestro), and [codex-agents](https://github.com/lleewwiiss/codex-agents).
 
-<br/>  
+## Selected research and writing
 
+- Prostate cancer risk modelling with Gaussian Process interpolation and CNN/LSTM architectures — [PubMed](https://pubmed.ncbi.nlm.nih.gov/34920976/).
+- Multi-label 3D MRI prostate segmentation optimisation — [APCC 2021 poster](https://global-uploads.webflow.com/60fe1fc1ca2d0435ddacffd0/6244f0ab517bf9856c8040cd_APCC%202021%20Poster.pdf).
+- Maxwell Plus medical AI work — [Google Cloud customer story](https://cloud.google.com/customers/maxwell-plus/).
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Featured repositories
 
-- 🏥 Recent publication that used Gaussian Processes to interpolate historical blood markers to be used in a state-of-the-art CNN + LSTM model to predict the likelihood of a patient developing Prostate cancer [Link](https://pubmed.ncbi.nlm.nih.gov/34920976/)  
-  
-
-- 💊 Developed a novel optimisation technique for combined learning of different 3D MRI segmentation labels achieving state-of-the-art anatomical segmentation of the prostate. Poster accepted in [APCC 21](https://global-uploads.webflow.com/60fe1fc1ca2d0435ddacffd0/6244f0ab517bf9856c8040cd_APCC%202021%20Poster.pdf)  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lleewwiiss&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleewwiiss&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+- [opencode-maestro](https://github.com/lleewwiiss/opencode-maestro) — structured agentic workflows for OpenCode using beads.
+- [amp-maestro](https://github.com/lleewwiiss/amp-maestro) — structured agentic workflows for Sourcegraph Amp using beads.
+- [opencode-globex](https://github.com/lleewwiiss/opencode-globex) — TUI for PRD interviews with a Ralph/Wiggum execution loop.
+- [Distributed-Tensorflow-Template](https://github.com/lleewwiiss/Distributed-Tensorflow-Template) — distributed TensorFlow best-practices template.
